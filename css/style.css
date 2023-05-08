@@ -1,0 +1,25 @@
+.clsnbrbox{
+    /* input:-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    } */
+    /* margin-left: 12cm; */
+margin-left: 40%;
+    height: 2cm;
+    width: 8.4cm;
+    text-align: right;
+    
+
+}
+
+button{
+  height:1cm;
+  width: 2cm;
+  margin-top: 1%;
+ 
+
+}
+.btnC{
+  margin-left: 40%;
+}
